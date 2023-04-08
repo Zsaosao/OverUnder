@@ -87,3 +87,5 @@ dialog --clear --backtitle "Game Tài Xỉu" --title "Game Over"
 break
 fi
 done
+}
+gameLoop 1000
